@@ -26,9 +26,9 @@ author:
   name             : "Rodrigo De Negri"
   pronouns         : # example: "she/her"  
   bio              : "I study volcanic eruptions using infrasound"
-  location         : "Clermont-Ferrand"
+  location         : "Clermont-Ferrand, France"
   employer         : "Laboratoire Magmas et Volcans"
-  uri              : # URL
+  uri              : https://lmv.uca.fr # URL
   email            : "rodrigo.denegri@uca.fr" 
 
   # Academic websites
