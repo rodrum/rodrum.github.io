@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I study volcanic eruptions using infrasound"
   location         : "Clermont-Ferrand, France"
-  employer         : "Laboratoire Magmas et Volcans"
-  uri              : https://lmv.uca.fr # URL
+  employer         : "[Laboratoire Magmas et Volcans](https://lmv.uca.fr)"
+  uri              : # URL
   email            : "rodrigo.denegri@uca.fr" 
 
   # Academic websites
