@@ -1,0 +1,13 @@
+---
+title: "Rapid Location of Remote Volcanic Infrasound Using 3D Ray Tracing and Empirical Climatologies: Application to the 2011 Cordón Caulle and 2015 Calbuco Eruptions, Chile"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-rapid-location
+excerpt: 'We develop a rapid first-order method to correct the infrasound propagation backazimuth deviation for source location procedures'
+date: 2023-02-18
+venue: 'Journal of Geophysical Research: Solid Earth'
+# slidesurl: 'http://rodrum.github.io/files/de_negri_etal_2022.pdf'
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JB025735'
+citation: 'De Negri, R., & Matoza, R. S. (2023). &quot;Rapid location of remote volcanic infrasound using 3D ray tracing and empirical climatologies: Application to the 2011 Cordón Caulle and 2015 Calbuco eruptions, Chile&quot;. <i>Journal of Geophysical Research: Solid Earth</i>, 128, e2022JB025735. https://doi. org/10.1029/2022JB025735'
+---
+Infrasound (<20 Hz) can propagate thousands of kilometers through the atmosphere, enabling global source location using networks of arrays such as the International Monitoring System infrasound network. However, atmospheric spatiotemporal variability poses a major challenge to locating infrasound sources. Strong horizontal cross-winds deviate the observed infrasound arrival azimuths, producing source mislocations that can be on the order of hundreds of kilometers. We introduce a method that combines empirical climatologies (HWM14/NRLMSIS2.0) and 3D ray tracing (infraGA) to obtain first-order, robust, and rapid estimates of the backazimuth deviations for source location procedures. For each trial source node and receiver path, day of the year and time, we perform an automatic iterative search for infrasound ground intercepts around the target station and obtain the corresponding backazimuth deviation. We test the method using IMS infrasound data from stations up to ∼5,000 km range for two similar explosive eruption case studies: 2011 Puyehue-Cordón Caulle and 2015 Calbuco. We obtain a source mislocation reduction up to ∼84% (242–38.7 km) and ∼75% (366–93.1 km) for Puyehue-Cordón Caulle and Calbuco eruptions, respectively. To evaluate the approach, we repeat the procedure using more realistic hybrid atmospheric descriptions; we obtain comparable results (up to ∼75% mislocation reduction for both eruptions). Potential applications of the approach include long-range volcano monitoring in near-real time by using pre-computed look-up tables or large-scale, multi-year reanalyses of infrasound waveform archives.
